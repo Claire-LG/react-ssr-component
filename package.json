@@ -95,7 +95,7 @@
     "webpack": "4.26.1",
     "webpack-bundle-analyzer": "3.4.1",
     "webpack-cli": "3.1.2",
-    "webpack-dev-server": "3.1.10",
+    "webpack-dev-server": "3.10.3",
     "webpack-isomorphic-tools": "3.0.6"
   },
   "devDependencies": {
